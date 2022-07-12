@@ -1,4 +1,4 @@
-Train data based on team records and roster ratings from the NFL 2020-2021 Season and NFL 2021-2022 season to create a model to predict team records in the 2022-2023 season
+Train data based on game results (score differential) and roster ratings from the 2020-2021 NFL Season and 2021-2022 NFL season to create a model to predict game results in the 2022-2023 NFL season
 
 Roster Ranking Source:
 7/1/2022:
