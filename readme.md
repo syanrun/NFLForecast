@@ -28,3 +28,6 @@ The final model used was a kernelized SVM using the RBF kernel, which ended up h
 
 Predictions for the 2022 Season:
 https://docs.google.com/spreadsheets/d/1aRLdwXeRXysy-ymcKTt-cJpC9Ny-r5m6es5Bt-mOXSs/edit?usp=sharing
+
+Check out how accurate my predictions are live!:
+https://nflpickwatch.com/profile/nfl/syanrun
