@@ -23,3 +23,11 @@ https://www.pro-football-reference.com/years/2021/games.htm
 
 2022:
 https://www.pro-football-reference.com/years/2022/games.htm
+
+The final model used was a kernelized SVM using the RBF kernel, which ended up having accurate predictions on average 63% of the time - not bad, FiveThirtyEight was accurate on about 61% of NFL games in the 2021 season
+
+Predictions for the 2022 Season:
+https://docs.google.com/spreadsheets/d/1aRLdwXeRXysy-ymcKTt-cJpC9Ny-r5m6es5Bt-mOXSs/edit?usp=sharing
+
+Check out how accurate my predictions are live!:
+https://nflpickwatch.com/profile/nfl/syanrun
