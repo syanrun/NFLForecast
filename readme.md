@@ -24,7 +24,7 @@ https://www.pro-football-reference.com/years/2021/games.htm
 2022:
 https://www.pro-football-reference.com/years/2022/games.htm
 
-The final model used was a kernelized SVM, which ended up having accurate predictions on average 66% of the time - not bad, FiveThirtyEight historically has a similar spread (https://projects.fivethirtyeight.com/checking-our-work/nfl-games/)
+The final model used was a bagged gradient boosted decision tree, which ended up having accurate predictions on average 65% of the time - not bad, this actually improves upon FiveThirtyEight's 61% accuracy in the 2021 season (https://nflpickwatch.com/profile/nfl/157)
 
 Predictions for the 2022 Season:
 https://docs.google.com/spreadsheets/d/1aRLdwXeRXysy-ymcKTt-cJpC9Ny-r5m6es5Bt-mOXSs/edit?usp=sharing
