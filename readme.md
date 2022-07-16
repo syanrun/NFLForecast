@@ -24,7 +24,7 @@ https://www.pro-football-reference.com/years/2021/games.htm
 2022:
 https://www.pro-football-reference.com/years/2022/games.htm
 
-The final model used was the AdaBoost Classifier, which ended up having accurate predictions on average 64% of the time - not bad, FiveThirtyEight was accurate on about 61% of NFL games in the 2021 season
+The final model used was a kernelized SVM, which ended up having accurate predictions on average 66% of the time - not bad, FiveThirtyEight historically has a similar spread (https://projects.fivethirtyeight.com/checking-our-work/nfl-games/)
 
 Predictions for the 2022 Season:
 https://docs.google.com/spreadsheets/d/1aRLdwXeRXysy-ymcKTt-cJpC9Ny-r5m6es5Bt-mOXSs/edit?usp=sharing
