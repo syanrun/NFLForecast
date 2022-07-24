@@ -36,7 +36,9 @@ https://maddenratings.weebly.com/madden-nfl-22.html
 2022 (Madden 2023):
 https://www.maddenratings.com/
 
-The final model used was a bagged kernelized SVM, which ended up having accurate predictions on average 64-66% of the time - not bad, this actually improves upon FiveThirtyEight's 61% accuracy in the 2021 season (https://nflpickwatch.com/profile/nfl/157)
+The first model used was a bagged kernelized SVM, which ended up having accurate predictions on average 64-66% of the time - not bad, this actually improves upon FiveThirtyEight's 61% accuracy in the 2021 season (https://nflpickwatch.com/profile/nfl/157).
+
+After that, I reran the machine learning analysis using data from Madden's NFL video games for more comprehensive and empirical player ratings, which yielded an even higher accuracy of 68.5%.
 
 Predictions for the 2022 Season:
 https://docs.google.com/spreadsheets/d/1aRLdwXeRXysy-ymcKTt-cJpC9Ny-r5m6es5Bt-mOXSs/edit?usp=sharing
