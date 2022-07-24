@@ -24,6 +24,18 @@ https://www.pro-football-reference.com/years/2021/games.htm
 2022:
 https://www.pro-football-reference.com/years/2022/games.htm
 
+Roster Rating Source (Madden):
+7/23/2022
+
+2020 (Madden 2021):
+https://maddenratings.weebly.com/madden-nfl-21.html
+
+2021 (Madden 2022):
+https://maddenratings.weebly.com/madden-nfl-22.html
+
+2022 (Madden 2023):
+https://www.maddenratings.com/
+
 The final model used was a bagged kernelized SVM, which ended up having accurate predictions on average 64-66% of the time - not bad, this actually improves upon FiveThirtyEight's 61% accuracy in the 2021 season (https://nflpickwatch.com/profile/nfl/157)
 
 Predictions for the 2022 Season:
