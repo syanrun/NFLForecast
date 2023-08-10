@@ -39,6 +39,3 @@ https://www.maddenratings.com/
 The first model used was a bagged kernelized SVM, which ended up having accurate predictions on average 64-66% of the time.
 
 After that, I reran the machine learning analysis using data from Madden's NFL video games for more comprehensive and empirical player ratings, which yielded an even higher accuracy of 68.5%.
-
-Predictions for the 2022 Season:
-https://docs.google.com/spreadsheets/d/1aRLdwXeRXysy-ymcKTt-cJpC9Ny-r5m6es5Bt-mOXSs/edit?usp=sharing
